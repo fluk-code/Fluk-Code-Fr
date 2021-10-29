@@ -1,15 +1,15 @@
-# Hello Word! I'm Felipe Ferreira.
+# Bonjour le monde! Je susis Felipe Ferreira.
 <a href="https://github.com/fluk-code/Fluk-Code-Pt-Br/">
-  <img alt="Portuguese Profile" target="_blank" src="https://img.shields.io/badge/Poruguese-green" >
+  <img alt="Profil en english" target="_blank" src="https://img.shields.io/badge/Poruguese-red" >
 </a>
 <a href="https://github.com/fluk-code/Fluk-Code-Fr/">
-  <img alt="French Profile" target="_blank" src="https://img.shields.io/badge/French-blue" >
+  <img alt="Profil en portugais" target="_blank" src="https://img.shields.io/badge/French-green" >
 </a>
 
 ### About me.
-- 💻 Work: I'm currently as HelpDesk @VRSoftware
+- 💻 Emploi: Je suis HelpDesk @VRSoftware
 - 👨‍🎓 I'm studying software analysis and development at UNIP university.
-- 📖 I intend to specialize in web development fullstack with javascript
+- 📖 J'étudie l'analyse et le développement de Systeme à l'université UNIP.
 
 <a href="mailto:ferreirafelipericardo@gmail.com">
   <img alt="Gmail ferreirafelipericardo@gmail.com" target="_blank" src="https://img.shields.io/badge/-Gmail-060606?style=for-the-badge&labelColor=0D0D0D&logo=Gmail&color=red&logoColor=white" >
@@ -18,7 +18,7 @@
   <img alt="Linkedin Felipe Ricardo Ferreira" target="_blank" src="https://img.shields.io/badge/-LinkedIn-060606?style=for-the-badge&labelColor=0D0D0D&logo=Linkedin&color=blue&logoColor=white" >
 </a> 
 <a href="https://fluk-code.github.io/">
-  <img alt="Pagina pessoal" target="_blank" src="https://img.shields.io/badge/-Git Page-060606?style=for-the-badge&labelColor=0D0D0D&logo=Github&color=blueviolet&logoColor=white" >
+  <img alt="Page personnelle" target="_blank" src="https://img.shields.io/badge/-Git Page-060606?style=for-the-badge&labelColor=0D0D0D&logo=Github&color=blueviolet&logoColor=white" >
 </a> 
 
 ----------------------------------
