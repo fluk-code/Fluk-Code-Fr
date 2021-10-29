@@ -1,4 +1,4 @@
-# Bonjour le monde! Je susis Felipe Ferreira.
+# Bonjour le monde! Je suis Felipe Ferreira.
 <a href="https://github.com/fluk-code/Fluk-Code-Pt-Br/">
   <img alt="Profil en Anglais" target="_blank" src="https://img.shields.io/badge/English-red" >
 </a>
