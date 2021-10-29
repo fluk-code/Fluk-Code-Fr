@@ -1,9 +1,9 @@
 # Bonjour le monde! Je susis Felipe Ferreira.
 <a href="https://github.com/fluk-code/Fluk-Code-Pt-Br/">
-  <img alt="Profil en Anglais" target="_blank" src="https://img.shields.io/badge/Anglais-red" >
+  <img alt="Profil en Anglais" target="_blank" src="https://img.shields.io/badge/English-red" >
 </a>
 <a href="https://github.com/fluk-code/Fluk-Code-Fr/">
-  <img alt="Profil en portugais" target="_blank" src="https://img.shields.io/badge/Portugais-green" >
+  <img alt="Profil en portugais" target="_blank" src="https://img.shields.io/badge/Português-green" >
 </a>
 
 ### About me.
