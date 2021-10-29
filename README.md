@@ -1,15 +1,15 @@
 # Bonjour le monde! Je susis Felipe Ferreira.
 <a href="https://github.com/fluk-code/Fluk-Code-Pt-Br/">
-  <img alt="Profil en english" target="_blank" src="https://img.shields.io/badge/Poruguese-red" >
+  <img alt="Profil en Anglais" target="_blank" src="https://img.shields.io/badge/Anglais-red" >
 </a>
 <a href="https://github.com/fluk-code/Fluk-Code-Fr/">
-  <img alt="Profil en portugais" target="_blank" src="https://img.shields.io/badge/French-green" >
+  <img alt="Profil en portugais" target="_blank" src="https://img.shields.io/badge/Portugais-green" >
 </a>
 
 ### About me.
 - 💻 Emploi: Je suis HelpDesk @VRSoftware
-- 👨‍🎓 I'm studying software analysis and development at UNIP university.
-- 📖 J'étudie l'analyse et le développement de Systeme à l'université UNIP.
+- 👨‍🎓 J'étudie l'analyse et le développement de Systeme à l'université UNIP.
+- 📖 Je veux me spécialiser dans le développement web full stack avec javascript.
 
 <a href="mailto:ferreirafelipericardo@gmail.com">
   <img alt="Gmail ferreirafelipericardo@gmail.com" target="_blank" src="https://img.shields.io/badge/-Gmail-060606?style=for-the-badge&labelColor=0D0D0D&logo=Gmail&color=red&logoColor=white" >
