@@ -7,9 +7,9 @@
 </a>
 
 ### About me.
-- 💻 Emploi: Je suis HelpDesk @VRSoftware
-- 👨‍🎓 J'étudie l'analyse et le développement de Systeme à l'université UNIP.
-- 📖 Je veux me spécialiser dans le développement web full stack avec javascript.
+- 💻 Je suis développeur web dans la @VRSoftware.
+- 👨‍🎓 Diplômé en analyse et le développement de Systeme à l'université UNIP.
+- 📖 Recherche constante de connaissances.
 
 <a href="mailto:ferreirafelipericardo@gmail.com">
   <img alt="Gmail ferreirafelipericardo@gmail.com" target="_blank" src="https://img.shields.io/badge/-Gmail-060606?style=for-the-badge&labelColor=0D0D0D&logo=Gmail&color=red&logoColor=white" >
